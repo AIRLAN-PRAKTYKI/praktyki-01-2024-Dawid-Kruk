@@ -1,3 +1,5 @@
+## Przerobiona treść kursu
+
 | sekcja   | tytuł         | czas | |
 | -------- | :-------------: | :--: | :--: |
 | Sekcja 1 | Podstawy sieci | 33min | ✅ |
