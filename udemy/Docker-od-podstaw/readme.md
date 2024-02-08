@@ -12,4 +12,4 @@
 | Sekcja 8 | Pozostałe tematy | 21min |  |
 | Sekcja 9 | Podsumowanie kursu | 9min |  |
   
-### Suma czasu: 50min
+### Suma czasu: 3h
