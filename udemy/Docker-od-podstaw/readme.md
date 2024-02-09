@@ -8,8 +8,8 @@
 | Sekcja 4 | Przechowywanie danych | 21min | ✅ |
 | Sekcja 5 | Docker - bezpieczeństwo | 32min | ✅ |
 | Sekcja 6 | Docker compose | 32min | ✅ |
-| Sekcja 7 | Registry - przechowywanie obrazów | 17min |  |
-| Sekcja 8 | Pozostałe tematy | 21min |  |
-| Sekcja 9 | Podsumowanie kursu | 9min |  |
+| Sekcja 7 | Registry - przechowywanie obrazów | 17min | ✅ |
+| Sekcja 8 | Pozostałe tematy | 21min | ✅ |
+| Sekcja 9 | Podsumowanie kursu | 9min | ✅ |
   
-### Suma czasu: 4h 25min
+### Suma czasu: 5h 12min
