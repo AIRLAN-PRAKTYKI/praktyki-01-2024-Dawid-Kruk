@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Pogoda</title>
+
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+
+    <div id="cityForm">
+      <form onsubmit="event.preventDefault(); getApiData()">
+        City: <input type="text" name="city" id="cityName">
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <div id="apiResult">
+      <h1>
+        Temperature: <div id="temperature"></div>ºC <br>
+        Wind speed: <div id="windSpeed"></div>km/h <br>
+        Humidity: <div id="humidity"></div>% <br>
+        Pressure: <div id="pressure"></div>hPa
+      </h1>
+    </div>
+
+    <script src="script.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+body {
+  background-color: #000814;
+  color: #fffcf2;
+  height: 100vh;
+
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#cityForm {
+  display: grid;
+  place-items: center;
+  margin-top: 100px;
+  font-size: 160%;
+}
+
+input {
+  width: 200px;
+  height: 40px;
+  font-size: 30px;
+  text-align: center;
+}
+
+button {
+  width: 130px;
+  height: 45px;
+  font-size: 30px;
+  background-color: #ffd60a;
+  color: #000814;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #ffc300;
+}
+
+h1 {
+  font-size: 250%;
+}
+
+#temperature,
+#windSpeed,
+#humidity,
+#pressure {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+#apiResult {
+  display: none;
+  place-items: center;
+}
