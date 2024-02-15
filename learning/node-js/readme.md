@@ -19,18 +19,18 @@
 | Sekcja 15 |                Os module                | ✅  |
 | Sekcja 16 |               Path module               | ✅  |
 | Sekcja 17 |            Fs module (sync)             | ✅  |
-| Sekcja 18 |            Fs module (async)            |     |
-| Sekcja 19 |              Sync vs async              |     |
-| Sekcja 20 |               Http intro                |     |
-| Sekcja 21 |           Http module (setup)           |     |
-| Sekcja 22 |       Http module (more features)       |     |
-| Sekcja 23 |                NPM info                 |     |
-| Sekcja 24 |               NPM command               |     |
-| Sekcja 25 |              First package              |     |
-| Sekcja 26 |               Share code                |     |
-| Sekcja 27 |                 Nodemon                 |     |
-| Sekcja 28 |                Uninstall                |     |
-| Sekcja 29 |             Global install              |     |
+| Sekcja 18 |            Fs module (async)            | ✅  |
+| Sekcja 19 |              Sync vs async              | ✅  |
+| Sekcja 20 |               Http intro                | ✅  |
+| Sekcja 21 |           Http module (setup)           | ✅  |
+| Sekcja 22 |       Http module (more features)       | ✅  |
+| Sekcja 23 |                NPM info                 | ✅  |
+| Sekcja 24 |               NPM command               | ✅  |
+| Sekcja 25 |              First package              | ✅  |
+| Sekcja 26 |               Share code                | ✅  |
+| Sekcja 27 |                 Nodemon                 | ✅  |
+| Sekcja 28 |                Uninstall                | ✅  |
+| Sekcja 29 |             Global install              | ✅  |
 | Sekcja 30 |            Package-lock.json            |     |
 | Sekcja 31 |         Important topics intro          |     |
 | Sekcja 32 |               Event loop                |     |
