@@ -31,15 +31,15 @@
 | Sekcja 27 |                 Nodemon                 | ✅  |
 | Sekcja 28 |                Uninstall                | ✅  |
 | Sekcja 29 |             Global install              | ✅  |
-| Sekcja 30 |            Package-lock.json            |     |
-| Sekcja 31 |         Important topics intro          |     |
-| Sekcja 32 |               Event loop                |     |
-| Sekcja 33 |            Event loop slides            |     |
-| Sekcja 34 |        Event loop code examples         |     |
-| Sekcja 35 |     Async patterns - blocking code      |     |
-| Sekcja 36 |     Async patterns - setup promises     |     |
-| Sekcja 37 |   Async patterns - refactor to async    |     |
-| Sekcja 38 |  Async patterns - node's native option  |     |
+| Sekcja 30 |            Package-lock.json            | ✅  |
+| Sekcja 31 |         Important topics intro          | ✅  |
+| Sekcja 32 |               Event loop                | ✅  |
+| Sekcja 33 |            Event loop slides            | ✅  |
+| Sekcja 34 |        Event loop code examples         | ✅  |
+| Sekcja 35 |     Async patterns - blocking code      | ✅  |
+| Sekcja 36 |     Async patterns - setup promises     | ✅  |
+| Sekcja 37 |   Async patterns - refactor to async    | ✅  |
+| Sekcja 38 |  Async patterns - node's native option  | ✅  |
 | Sekcja 39 |      Events emitter - code example      |     |
 | Sekcja 40 |    Events emitter - additional info     |     |
 | Sekcja 41 |     Events emitter - module example     |     |
@@ -80,4 +80,4 @@
 | Sekcja 76 |         Express router - setup          |     |
 | Sekcja 77 |      Express router - controllers       |     |
 
-### Suma czasu: 47min / 8h 16min
+### Suma czasu: 3h 13min / 8h 16min
