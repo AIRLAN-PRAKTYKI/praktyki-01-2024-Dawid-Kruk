@@ -40,17 +40,17 @@
 | Sekcja 36 |     Async patterns - setup promises     | ✅  |
 | Sekcja 37 |   Async patterns - refactor to async    | ✅  |
 | Sekcja 38 |  Async patterns - node's native option  | ✅  |
-| Sekcja 39 |      Events emitter - code example      |     |
-| Sekcja 40 |    Events emitter - additional info     |     |
-| Sekcja 41 |     Events emitter - module example     |     |
-| Sekcja 42 |              Streams intro              |     |
-| Sekcja 43 |           Streams - read file           |     |
-| Sekcja 44 |        Streams - additional info        |     |
-| Sekcja 45 |         Streams - http example          |     |
-| Sekcja 46 |       HTTP request/response cycle       |     |
-| Sekcja 47 |              HTTP messages              |     |
-| Sekcja 48 |         Starter project install         |     |
-| Sekcja 49 |            Starter overview             |     |
+| Sekcja 39 |      Events emitter - code example      | ✅  |
+| Sekcja 40 |    Events emitter - additional info     | ✅  |
+| Sekcja 41 |     Events emitter - module example     | ✅  |
+| Sekcja 42 |              Streams intro              | ✅  |
+| Sekcja 43 |           Streams - read file           | ✅  |
+| Sekcja 44 |        Streams - additional info        | ✅  |
+| Sekcja 45 |         Streams - http example          | ✅  |
+| Sekcja 46 |       HTTP request/response cycle       | ✅  |
+| Sekcja 47 |              HTTP messages              | ✅  |
+| Sekcja 48 |         Starter project install         | ✅  |
+| Sekcja 49 |            Starter overview             | ✅  |
 | Sekcja 50 |               HTTP basics               |     |
 | Sekcja 51 |             HTTP - headers              |     |
 | Sekcja 52 |          HTTP - request object          |     |
@@ -80,4 +80,4 @@
 | Sekcja 76 |         Express router - setup          |     |
 | Sekcja 77 |      Express router - controllers       |     |
 
-### Suma czasu: 3h 13min / 8h 16min
+### Suma czasu: 4h 3min / 8h 16min
