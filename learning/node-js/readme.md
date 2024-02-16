@@ -51,20 +51,20 @@
 | Sekcja 47 |              HTTP messages              | ✅  |
 | Sekcja 48 |         Starter project install         | ✅  |
 | Sekcja 49 |            Starter overview             | ✅  |
-| Sekcja 50 |               HTTP basics               |     |
-| Sekcja 51 |             HTTP - headers              |     |
-| Sekcja 52 |          HTTP - request object          |     |
-| Sekcja 53 |            HTTP - html file             |     |
-| Sekcja 54 |           HTTP - app example            |     |
-| Sekcja 55 |              Express info               |     |
-| Sekcja 56 |             Express basics              |     |
-| Sekcja 57 |           Express app example           |     |
-| Sekcja 58 |          Express - all static           |     |
-| Sekcja 59 |               API vs SSR                |     |
-| Sekcja 60 |               JSON basics               |     |
-| Sekcja 61 |      Params, query string - setup       |     |
-| Sekcja 62 |              Route params               |     |
-| Sekcja 63 |           Params - extra info           |     |
+| Sekcja 50 |               HTTP basics               | ✅  |
+| Sekcja 51 |             HTTP - headers              | ✅  |
+| Sekcja 52 |          HTTP - request object          | ✅  |
+| Sekcja 53 |            HTTP - html file             | ✅  |
+| Sekcja 54 |           HTTP - app example            | ✅  |
+| Sekcja 55 |              Express info               | ✅  |
+| Sekcja 56 |             Express basics              | ✅  |
+| Sekcja 57 |           Express app example           | ✅  |
+| Sekcja 58 |          Express - all static           | ✅  |
+| Sekcja 59 |               API vs SSR                | ✅  |
+| Sekcja 60 |               JSON basics               | ✅  |
+| Sekcja 61 |      Params, query string - setup       | ✅  |
+| Sekcja 62 |              Route params               | ✅  |
+| Sekcja 63 |           Params - extra info           | ✅  |
 | Sekcja 64 |              Query string               |     |
 | Sekcja 65 | Additional params and query string info |     |
 | Sekcja 66 |           Middleware - setup            |     |
@@ -80,4 +80,4 @@
 | Sekcja 76 |         Express router - setup          |     |
 | Sekcja 77 |      Express router - controllers       |     |
 
-### Suma czasu: 4h 3min / 8h 16min
+### Suma czasu: 5h 50min / 8h 16min
