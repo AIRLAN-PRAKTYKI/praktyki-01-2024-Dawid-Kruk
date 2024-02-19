@@ -65,19 +65,19 @@
 | Sekcja 61 |      Params, query string - setup       | ✅  |
 | Sekcja 62 |              Route params               | ✅  |
 | Sekcja 63 |           Params - extra info           | ✅  |
-| Sekcja 64 |              Query string               |     |
-| Sekcja 65 | Additional params and query string info |     |
-| Sekcja 66 |           Middleware - setup            |     |
-| Sekcja 67 |                 APP.USE                 |     |
-| Sekcja 68 |      Multiple middleware functions      |     |
-| Sekcja 69 |       Additional middleware info        |     |
-| Sekcja 70 |              Methods - GET              |     |
-| Sekcja 71 |             Methods - POST              |     |
-| Sekcja 72 |   Methods - POST (javascript example)   |     |
-| Sekcja 73 |             Install postman             |     |
-| Sekcja 74 |              Methods - PUT              |     |
+| Sekcja 64 |              Query string               | ✅  |
+| Sekcja 65 | Additional params and query string info | ✅  |
+| Sekcja 66 |           Middleware - setup            | ✅  |
+| Sekcja 67 |                 APP.USE                 | ✅  |
+| Sekcja 68 |      Multiple middleware functions      | ✅  |
+| Sekcja 69 |       Additional middleware info        | ✅  |
+| Sekcja 70 |              Methods - GET              | ✅  |
+| Sekcja 71 |             Methods - POST              | ✅  |
+| Sekcja 72 |   Methods - POST (javascript example)   | ✅  |
+| Sekcja 73 |             Install postman             | ✅  |
+| Sekcja 74 |              Methods - PUT              | ✅  |
 | Sekcja 75 |            Methods - DELETE             |     |
 | Sekcja 76 |         Express router - setup          |     |
 | Sekcja 77 |      Express router - controllers       |     |
 
-### Suma czasu: 5h 50min / 8h 16min
+### Suma czasu: 7h 41min / 8h 16min
