@@ -76,8 +76,8 @@
 | Sekcja 72 |   Methods - POST (javascript example)   | ✅  |
 | Sekcja 73 |             Install postman             | ✅  |
 | Sekcja 74 |              Methods - PUT              | ✅  |
-| Sekcja 75 |            Methods - DELETE             |     |
-| Sekcja 76 |         Express router - setup          |     |
-| Sekcja 77 |      Express router - controllers       |     |
+| Sekcja 75 |            Methods - DELETE             | ✅  |
+| Sekcja 76 |         Express router - setup          | ✅  |
+| Sekcja 77 |      Express router - controllers       | ✅  |
 
-### Suma czasu: 7h 41min / 8h 16min
+### Suma czasu: 8h 16min
