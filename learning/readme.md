@@ -6,4 +6,4 @@
 
 ## Czego się uczę:
 
-- [node.js](https://github.com/AIRLAN-PRAKTYKI/praktyki-01-2024-Dawid-Kruk/blob/main/learning/node-js)
+- [node.js](https://youtu.be/Oe421EPjeBE?si=mX0isNNav977APmM)
